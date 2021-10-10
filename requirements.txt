@@ -6,3 +6,4 @@ MarkupSafe==1.1.1
 Werkzeug==0.15.5
 ZConfig==3.5.0
 zdaemon==4.3
+gunicorn==20.1.0
