@@ -22,4 +22,4 @@ def send_js(filename):
     return send_from_directory(filename, static_url_path='static')
 
 if __name__ == '__main__':
-    app.run(*host, debug=debug, port=port)
+    app.run()
