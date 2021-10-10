@@ -1,1 +1,1 @@
-web: gunicorn run:aipresent
+web: gunicorn run:app
